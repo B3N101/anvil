@@ -1,6 +1,6 @@
 *
-*/
-
+*/src
+.gitignore
 # build output
 dist/
 .output/
